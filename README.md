@@ -12,7 +12,7 @@ en pokemon
 ![leuk plaatje] (minecraft-palace-hillside.jpg)
 
 ![uitleg] ( Drakieminecraft.jpg)
-dat ken je nu wel zien
+dat kun je nu wel zien
 maar er is veel over 
 ARDUINO
 
